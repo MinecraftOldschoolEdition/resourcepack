@@ -396,6 +396,11 @@
   "generator.alpha_snow": "Alpha (Snowy)",
   "generator.classic": "Classic",
 
+  "gamerule.doDayNightCycle": "Day/Night Cycle",
+  "gamerule.doWeatherCycle": "Weather Cycle",
+  "gamerule.tntExplodes": "TNT Explodes",
+  "gamerule.mobGriefing": "Mob Griefing",
+
   "item.minecraft.apple": "Apple",
   "item.minecraft.apple_gold": "Golden Apple",
   "item.minecraft.arrow": "Arrow",
@@ -660,6 +665,11 @@
   "selectWorld.select": "Play Selected World",
   "selectWorld.title": "Select World",
   "selectWorld.world": "World",
+  "selectWorld.gameMode": "Game Mode",
+  "selectWorld.difficulty": "Difficulty",
+  "selectWorld.moreWorldOptions": "More World Options...",
+  "selectWorld.moreWorldOptions.title": "More World Options",
+  "selectWorld.moreWorldOptions.subtitle": "Configure game rules for the new world",
   "stat.blocksButton": "Blocks",
   "stat.boatOneCm": "Distance by boat",
   "stat.climbOneCm": "Distance climbed",
