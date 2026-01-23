@@ -93,6 +93,9 @@
   "achievement.boatTravel.desc": "Craft a boat",
   "block.minecraft.bed": "Bed",
   "block.minecraft.bed.no_sleep": "You can only sleep at night",
+  "tile.bed.noSleep": "You can only sleep at night",
+  "tile.bed.occupied": "This bed is occupied",
+  "tile.bed.sleepDisabled": "Sleeping is disabled",
   "block.minecraft.block_diamond": "Diamond Block",
   "block.minecraft.block_gold": "Gold Block",
   "block.minecraft.block_iron": "Iron Block",
@@ -400,6 +403,7 @@
   "gamerule.doWeatherCycle": "Weather Cycle",
   "gamerule.tntExplodes": "TNT Explodes",
   "gamerule.mobGriefing": "Mob Griefing",
+  "gamerule.sleepEnabled": "Sleep Enabled",
 
   "item.minecraft.apple": "Apple",
   "item.minecraft.apple_gold": "Golden Apple",
