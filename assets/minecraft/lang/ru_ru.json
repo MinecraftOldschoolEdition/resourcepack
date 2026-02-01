@@ -32,6 +32,8 @@
   "gamerule.doWeatherCycle": "Смена погоды",
   "gamerule.tntExplodes": "Взрыв TNT",
   "gamerule.mobGriefing": "Разрушение мобами",
+  "gamerule.sleepEnabled": "Сон включен",
+  "gamerule.keepInventory": "Сохранять инвентарь",
   "block.minecraft.stone": "Камень",
   "block.minecraft.dirt": "Земля",
   "block.minecraft.grass": "Блок травы",

@@ -32,6 +32,8 @@
   "gamerule.doWeatherCycle": "天候サイクル",
   "gamerule.tntExplodes": "TNTの爆発",
   "gamerule.mobGriefing": "モブによる破壊",
+  "gamerule.sleepEnabled": "睡眠を有効",
+  "gamerule.keepInventory": "アイテム保持",
   "block.minecraft.stone": "石",
   "block.minecraft.dirt": "土",
   "block.minecraft.grass": "草ブロック",

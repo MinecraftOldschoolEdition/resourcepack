@@ -404,6 +404,7 @@
   "gamerule.tntExplodes": "TNT Explodes",
   "gamerule.mobGriefing": "Mob Griefing",
   "gamerule.sleepEnabled": "Sleep Enabled",
+  "gamerule.keepInventory": "Keep Inventory",
 
   "item.minecraft.apple": "Apple",
   "item.minecraft.apple_gold": "Golden Apple",
