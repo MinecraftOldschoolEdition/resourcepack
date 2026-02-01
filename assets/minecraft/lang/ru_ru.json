@@ -285,7 +285,17 @@
   "item.minecraft.glistering_melon_slice": "Сверкающий ломтик арбуза",
   "item.minecraft.spawn_egg": "Яйцо призыва",
   "item.minecraft.experience_bottle": "Пузырёк опыта",
-  "item.minecraft.fire_charge": "Огненный шар"
+  "item.minecraft.fire_charge": "Огненный шар",
+  "options.sound.input.noiseSuppression": "Шумоподавление: %s",
+  "options.sound.input.agc": "Авто усиление: %s",
+  "options.sound.input.vad": "Определение голоса: %s",
+  "options.sound.input.enhanced": "Обработка голоса",
+  "options.sound.input.micVolume": "Громкость микрофона",
+  "options.sound.voiceChatVolume": "Громкость голосового чата",
+  "friends.status": "Статус",
+  "friends.status.online": "В сети",
+  "friends.status.away": "Отошёл",
+  "friends.status.invisible": "Невидимый"
 }
 
 

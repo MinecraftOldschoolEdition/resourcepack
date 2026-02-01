@@ -285,7 +285,17 @@
   "item.minecraft.glistering_melon_slice": "きらめくスイカの薄切り",
   "item.minecraft.spawn_egg": "スポーンエッグ",
   "item.minecraft.experience_bottle": "エンチャントの瓶",
-  "item.minecraft.fire_charge": "ファイヤーチャージ"
+  "item.minecraft.fire_charge": "ファイヤーチャージ",
+  "options.sound.input.noiseSuppression": "ノイズ抑制: %s",
+  "options.sound.input.agc": "自動ゲイン: %s",
+  "options.sound.input.vad": "音声検出: %s",
+  "options.sound.input.enhanced": "音声処理",
+  "options.sound.input.micVolume": "マイク音量",
+  "options.sound.voiceChatVolume": "ボイスチャット音量",
+  "friends.status": "ステータス",
+  "friends.status.online": "オンライン",
+  "friends.status.away": "離席中",
+  "friends.status.invisible": "非表示"
 }
 
 
