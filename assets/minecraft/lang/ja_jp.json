@@ -764,6 +764,8 @@
   "friends.status.away": "離席中",
   "friends.status.invisible": "非表示",
   "friends.status.disabled": "無効",
+  "friends.status.offline": "オフライン",
+  "friends.status.unknown": "不明",
   "friends.status.inMenus": "メニュー",
   "friends.status.singleplayer": "シングルプレイ",
   "friends.status.multiplayer": "マルチプレイ",
