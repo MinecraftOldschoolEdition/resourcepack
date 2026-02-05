@@ -419,14 +419,6 @@
   "gui.yes": "Yes",
   "gui.no": "No",
 
-  "generator.default": "Default",
-  "generator.flat": "Superflat",
-  "generator.largeBiomes": "Large Biomes",
-  "generator.alpha": "Alpha",
-  "generator.sky": "Sky",
-  "generator.alpha_snow": "Alpha (Snowy)",
-  "generator.classic": "Classic",
-
   "gamerule.doDayNightCycle": "Day/Night Cycle",
   "gamerule.doWeatherCycle": "Weather Cycle",
   "gamerule.tntExplodes": "TNT Explodes",
