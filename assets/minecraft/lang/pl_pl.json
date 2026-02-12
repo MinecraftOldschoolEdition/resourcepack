@@ -772,6 +772,8 @@
   "options.soundAnimals": "Zwierzęta",
   "options.soundMonsters": "Potwory",
   "options.soundWeather": "Pogoda",
+  "options.soundPortal": "Portal",
+  "options.soundCave": "Jaskinia",
   "options.fontScale": "Skala czcionki",
   "options.vsync": "VSync",
   "accessibility.title": "Ustawienia ułatwień dostępu",

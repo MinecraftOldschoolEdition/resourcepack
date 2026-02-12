@@ -783,6 +783,8 @@
   "options.soundAnimals": "動物",
   "options.soundMonsters": "モンスター",
   "options.soundWeather": "天候",
+  "options.soundPortal": "ポータル",
+  "options.soundCave": "洞窟",
   "options.fontScale": "フォントサイズ",
   "options.vsync": "垂直同期",
   "accessibility.title": "アクセシビリティ設定",

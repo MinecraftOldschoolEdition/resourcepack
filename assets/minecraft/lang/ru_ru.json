@@ -784,6 +784,8 @@
   "options.soundAnimals": "Животные",
   "options.soundMonsters": "Монстры",
   "options.soundWeather": "Погода",
+  "options.soundPortal": "Портал",
+  "options.soundCave": "Пещера",
   "options.fontScale": "Масштаб шрифта",
   "options.vsync": "Верт. синхронизация",
   "accessibility.title": "Настройки доступности",
