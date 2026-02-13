@@ -791,7 +791,7 @@
   "accessibility.title": "Accessibility Settings",
   "accessibility.subtitles": "Show Subtitles",
   "options.chunkRenderThreads": "Render Threads",
-  "options.threadPriority": "Thread Priority",
+  "options.threadPriority": "Priority",
   "stat.mineBlock": "%s mined",
   "stat.useItem": "%s used",
   "stat.breakItem": "%s depleted",
