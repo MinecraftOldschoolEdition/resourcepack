@@ -868,9 +868,9 @@
   "multiplayer.ping.noConnection": "(no connection)",
   "multiplayer.ping.polling": "Polling..",
   "multiplayer.ping.ms": "%sms",
-  "options.sound.input.processor.rnnoise": " (RNNoise)",
+  "options.sound.input.processor.rnnoise": "",
   "options.sound.input.processor.unavailable": " (N/A)",
-  "options.sound.input.vadType.rnnoise": " (RNNoise)",
+  "options.sound.input.vadType.rnnoise": "", 
   "options.sound.input.vadType.amplitude": " (Amplitude)",
   "container.result": "Result",
   "gui.chatroom.members": "Members: %s",
@@ -913,6 +913,7 @@
   "options.rendererVboMode": "Renderer Mesh Mode",
   "options.rendererVboMode.legacy": "Legacy (Display Lists)",
   "options.rendererVboMode.vbo": "VBO",
+  "options.vulkanChunkRenderer": "Vulkan Chunk Renderer",
   "options.entityLodMode": "Entity LOD",
   "options.entityLodMode.off": "Off",
   "options.entityLodMode.balanced": "Balanced",
@@ -923,5 +924,6 @@
   "video.rendererRestartRequired": "Renderer backend changes require a game restart",
   "video.rendererVboModeFallback": "Renderer mesh mode fell back to Legacy",
   "video.rendererVboModeLiveApply": "Renderer mesh mode changes apply live",
+  "video.vulkanChunkRendererForcesVbo": "Renderer mesh mode is forced to VBO while Vulkan Chunk Renderer is enabled",
   "gui.controller.dismissKeyboard": "Dismiss Keyboard"
 }
