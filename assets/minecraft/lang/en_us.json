@@ -727,6 +727,7 @@
   "options.3dAnaglyph": "3D Anaglyph",
   "options.accessibility": "Accessibility",
   "options.accessibilityColorProfile": "Color Blind",
+  "options.accessibilityColorStrength": "Color Blind Strength",
   "options.advancedOpenGL": "Advanced OpenGL",
   "options.advancedOpengl": "Advanced OpenGL",
   "options.anaglyph": "3D Anaglyph",
