@@ -450,6 +450,7 @@
   "friends.verify.waitingFor": "Waiting for %s to add you back...",
   "gamerule.doDayNightCycle": "Day/Night Cycle",
   "gamerule.doWeatherCycle": "Weather Cycle",
+  "gamerule.doFireTick": "Fire Tick",
   "gamerule.keepInventory": "Keep Inventory",
   "gamerule.mobGriefing": "Mob Griefing",
   "gamerule.sleepEnabled": "Sleep Enabled",
