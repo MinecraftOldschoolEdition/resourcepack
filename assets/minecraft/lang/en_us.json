@@ -792,6 +792,9 @@
   "options.renderDistance.tooltip.short": "8 chunks (128 blocks)",
   "options.renderDistance.tooltip.superFar": "48 chunks (768 blocks)",
   "options.renderDistance.tooltip.tiny": "4 chunks (64 blocks)",
+  "options.renderScaleMode": "Render Scale",
+  "options.renderScaleMode.native": "Native (Framebuffer)",
+  "options.renderScaleMode.oneX": "1x (Window)",
   "options.rendererBackend": "Renderer Backend",
   "options.rendererVboMode": "Mesh Mode",
   "options.rendererVboMode.gpu": "GPU",
@@ -989,5 +992,6 @@
   "worldConversion.description2": "Choose backup and generator type, then click Proceed.",
   "worldConversion.title": "Convert world to McRegion",
   "worldConversion.worldPrefix": "World: ",
-  "worldConversion.worldSuffix": " (%s)"
+  "worldConversion.worldSuffix": " (%s)",
+  "menu.savingIsometricScreenshot": "Saving Isometric Screenshot..."
 }
