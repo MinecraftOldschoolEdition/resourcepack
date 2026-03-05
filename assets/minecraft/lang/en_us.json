@@ -880,7 +880,7 @@
   "playersAndChat.onlinePlayers": "Online Players",
   "resourcePack.dropInfo": "(Drag and drop to add packs)",
   "resourcePack.openFolder": "Open Resource Pack Folder",
-  "selectWorld.conversion": "Must be converted!",
+  "selectWorld.conversion": "Requires McRegion 2 conversion!",
   "selectWorld.create": "Create New World",
   "selectWorld.delete": "Delete",
   "selectWorld.deleteButton": "Delete",
@@ -992,10 +992,15 @@
   "video.rendererVboModeFallback": "Renderer mesh mode fell back to Legacy",
   "video.rendererVboModeLiveApply": "Renderer mesh mode changes apply live",
   "video.vulkanChunkRendererForcesVbo": "Renderer mesh mode is forced to VBO while Vulkan Chunk Renderer is enabled",
-  "worldConversion.description1": "This world uses the old Alpha format and must be converted.",
+  "worldConversion.description1": "This world uses the old Alpha format and must be converted to Eric's McRegion 2.",
   "worldConversion.description2": "Choose backup and generator type, then click Proceed.",
-  "worldConversion.title": "Convert world to McRegion",
+  "worldConversion.title": "Convert world to Eric's McRegion 2",
   "worldConversion.worldPrefix": "World: ",
   "worldConversion.worldSuffix": " (%s)",
-  "menu.savingIsometricScreenshot": "Saving Isometric Screenshot..."
+  "menu.savingIsometricScreenshot": "Saving Isometric Screenshot...",
+  "worldUpgradeMcRegion2.title": "Upgrade world to Eric's McRegion 2",
+  "worldUpgradeMcRegion2.worldPrefix": "World: ",
+  "worldUpgradeMcRegion2.worldSuffix": " (%s)",
+  "worldUpgradeMcRegion2.description1": "This world is in McRegion 1 and must be upgraded before launch.",
+  "worldUpgradeMcRegion2.description2": "Choose whether to back up first, then click Proceed."
 }
