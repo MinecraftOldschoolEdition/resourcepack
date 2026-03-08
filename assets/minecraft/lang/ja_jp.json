@@ -676,6 +676,7 @@
   "options.ao": "スムースライティング",
   "options.anaglyph": "3Dアナグリフ",
   "options.language": "言語...",
+  "options.language.tooltip": "言語",
   "playersAndChat.onlinePlayers": "オンラインプレイヤー",
   "playersAndChat.chatRooms": "チャットルーム",
   "playersAndChat.createRoom": "ルーム作成",

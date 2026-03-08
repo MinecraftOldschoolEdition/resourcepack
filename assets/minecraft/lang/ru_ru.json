@@ -677,6 +677,7 @@
   "options.ao": "Плавное освещение",
   "options.anaglyph": "3D анаглиф",
   "options.language": "Язык...",
+  "options.language.tooltip": "Язык",
   "playersAndChat.onlinePlayers": "Игроки онлайн",
   "playersAndChat.chatRooms": "Чат-комнаты",
   "playersAndChat.createRoom": "Создать комнату",

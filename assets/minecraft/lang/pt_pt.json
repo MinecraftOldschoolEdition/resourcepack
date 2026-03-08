@@ -658,6 +658,7 @@
   "options.ao": "Iluminação Suave",
   "options.anaglyph": "3D Anaglífico",
   "options.language": "Idioma...",
+  "options.language.tooltip": "Idioma",
   "playersAndChat.onlinePlayers": "Jogadores Ligados",
   "playersAndChat.chatRooms": "Salas de Conversa",
   "playersAndChat.createRoom": "Criar Sala",

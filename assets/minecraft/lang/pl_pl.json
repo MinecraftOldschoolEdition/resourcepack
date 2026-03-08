@@ -665,6 +665,7 @@
   "options.ao": "Płynne oświetlenie",
   "options.anaglyph": "Anaglif 3D",
   "options.language": "Język...",
+  "options.language.tooltip": "Język",
   "playersAndChat.onlinePlayers": "Gracze online",
   "playersAndChat.chatRooms": "Pokoje czatu",
   "playersAndChat.createRoom": "Utwórz pokój",
