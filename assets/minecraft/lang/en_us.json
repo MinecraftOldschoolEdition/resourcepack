@@ -796,6 +796,8 @@
   "options.mipmapLevels": "Mipmap Levels",
   "options.mipmapLevels.level": "Level %s",
   "options.modelPart.cape": "Cape",
+  "options.modelPart.cape.oldschool": "Oldschool",
+  "options.modelPart.cape.official": "Official",
   "options.modelPart.hat": "Hat",
   "options.modelPart.jacket": "Jacket",
   "options.modelPart.left_pants_leg": "Left Pants Leg",
