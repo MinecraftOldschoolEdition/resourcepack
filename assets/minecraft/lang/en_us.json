@@ -829,6 +829,7 @@
   "options.renderScaleMode.native": "Native (Framebuffer)",
   "options.renderScaleMode.oneX": "1x (Window)",
   "options.rendererBackend": "Renderer Backend",
+  "options.rendererBackend.tooltip": "Vulkan renderer is beta/experimental and may cause instability or visual issues.",
   "options.rendererVboMode": "Mesh Mode",
   "options.rendererVboMode.gpu": "GPU",
   "options.rendererVboMode.legacy": "Legacy",
