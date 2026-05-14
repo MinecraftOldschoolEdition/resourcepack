@@ -796,6 +796,7 @@
   "friends.p2p.failed": "Failed to open Friends List world",
   "friends.p2p.failed.generic": "Unable to start Friends List sharing.",
   "friends.p2p.opened": "Friends can now request to join this world.",
+  "friends.p2p.openedWithAddress": "Friends can now request to join this world. Local players can connect to %s.",
   "friends.p2p.preparing": "Preparing Friends List world...",
   "friends.p2p.saving": "Saving singleplayer world...",
   "friends.p2p.signaling": "Connecting to Mojang Friends signaling...",
