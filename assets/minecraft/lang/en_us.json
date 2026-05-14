@@ -487,7 +487,7 @@
   "gui.friends.error.unavailable.message": "The Friends List service is currently unavailable. Please check your connection and try again later.",
   "gui.friends.error.upgrade_needed": "Update the game to access your Friends List.",
   "gui.friends.error.user_may_lack_active_profile": "There is no player with this profile name",
-  "gui.friends.toast.friend_online.message": "%s is now online",
+  "gui.friends.toast.friend_online.message": "%s is online",
   "gui.friends.toast.friend_online.title": "Friend Online",
   "gui.friends.toast.friend_added.message": "%s accepted your friend request",
   "gui.friends.toast.invite_from_friend.message": "%s invited you to join their world. Press O to open Social.",
