@@ -1225,6 +1225,8 @@
   "video.fsr31.enableFirst": "Enable FSR 3.1 Upscaling first",
   "video.fsr31.requiresVulkan": "Requires Vulkan backend",
   "video.dlss45.enableFirst": "Select DLSS 4.5 first",
+  "video.dlss45.frameGeneration.windowsOnly": "DLSS Frame Generation is Windows-only",
+  "video.dlss45.requiresNvidia": "DLSS requires an NVIDIA GPU",
   "video.upscaler.enableFirst": "Enable an upscaler first",
   "video.lazyChunkLoader.requiresVulkanChunkRenderer": "Requires Vulkan Chunk Renderer",
   "video.msaaRestartRequired": "MSAA changes will take effect after restarting the game",
