@@ -843,6 +843,7 @@
   "options.titleScreenType.modern": "Moderno",
   "options.titleScreenType.classic": "Clássico",
   "options.fpsCap.uncapped": "Sem limite",
+  "options.fpsCap.vrrAuto": "Sem limite (VRR automático: %s FPS)",
   "options.fpsCap.value": "%s FPS",
   "options.fogStrength.vanilla": "Padrão",
   "options.msaa.level": "%sx",

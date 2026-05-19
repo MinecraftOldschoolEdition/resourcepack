@@ -917,6 +917,7 @@
   "isometric.menu.zoom": "Zoom: %d%%",
   "options.fpsCap": "FPS Cap",
   "options.fpsCap.uncapped": "Uncapped",
+  "options.fpsCap.vrrAuto": "Uncapped (VRR auto: %s FPS)",
   "options.fpsCap.value": "%s FPS",
   "options.gamma": "Brightness",
   "options.graphics": "Graphics",

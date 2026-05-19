@@ -853,6 +853,7 @@
   "options.titleScreenType.modern": "Современный",
   "options.titleScreenType.classic": "Классический",
   "options.fpsCap.uncapped": "Без ограничений",
+  "options.fpsCap.vrrAuto": "Без ограничений (VRR авто: %s FPS)",
   "options.fpsCap.value": "%s FPS",
   "options.fogStrength.vanilla": "Стандартный",
   "options.msaa.level": "%sx",

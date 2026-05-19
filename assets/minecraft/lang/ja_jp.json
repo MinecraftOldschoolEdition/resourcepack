@@ -853,6 +853,7 @@
   "options.titleScreenType.modern": "モダン",
   "options.titleScreenType.classic": "クラシック",
   "options.fpsCap.uncapped": "無制限",
+  "options.fpsCap.vrrAuto": "無制限 (VRR自動: %s FPS)",
   "options.fpsCap.value": "%s FPS",
   "options.fogStrength.vanilla": "標準",
   "options.msaa.level": "%sx",
