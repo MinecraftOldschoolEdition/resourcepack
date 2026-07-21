@@ -937,7 +937,7 @@
   "options.debugOverlay.renderer": "Renderer Statistics",
   "options.debugOverlay.renderer.tooltip": "Shows chunk renderer and visibility statistics.",
   "options.debugOverlay.version": "Game Version",
-  "options.debugOverlay.version.tooltip": "Shows the game name and version.",
+  "options.debugOverlay.version.tooltip": "Shows the game name and version when Version Label is disabled in Eye Candy.",
   "options.debugOverlay.videoMemory": "Video Memory",
   "options.debugOverlay.videoMemory.tooltip": "Shows available or used GPU memory when supported.",
   "options.debugOverlay.voiceChat": "Voice Chat Status",
