@@ -907,6 +907,7 @@
   "options.ao": "Smooth Lighting",
   "options.ao.tooltip": "Smooths lighting across block faces. Disable it for flatter lighting and potentially better performance.",
   "options.biomeBlendRadius": "Biome Blend",
+  "options.biomeBlendRadius.tooltip": "Controls how smoothly biome colors blend together. Higher settings improve visual transitions but may reduce performance.",
   "options.biomeBlendRadius.1": "OFF (Fastest)",
   "options.biomeBlendRadius.3": "3x3 (Fast)",
   "options.biomeBlendRadius.5": "5x5 (Normal)",
