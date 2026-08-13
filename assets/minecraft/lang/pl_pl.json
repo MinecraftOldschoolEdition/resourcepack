@@ -674,6 +674,8 @@
   "options.advancedOpenGL": "Zaawansowany OpenGL",
   "options.advancedOpengl": "Zaawansowany OpenGL",
   "options.ao": "Płynne oświetlenie",
+  "options.smoothWaterLighting": "Płynne oświetlenie wody",
+  "options.smoothWaterLighting.tooltip": "Wygładza przejścia oświetlenia na powierzchni wody niezależnie od płynnego oświetlenia.",
   "options.anaglyph": "Anaglif 3D",
   "options.language": "Język...",
   "options.language.tooltip": "Język",

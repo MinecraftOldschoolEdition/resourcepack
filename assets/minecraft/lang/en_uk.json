@@ -829,6 +829,8 @@
   "options.anisotropicFiltering": "Anisotropic Filtering",
   "options.anisotropicFiltering.level": "%sx",
   "options.ao": "Smooth Lighting",
+  "options.smoothWaterLighting": "Smooth Water Lighting",
+  "options.smoothWaterLighting.tooltip": "Smooths light transitions across water surfaces independently of Smooth Lighting.",
   "options.bowStance": "Bow Stance",
   "options.bowStance.new": "Beta 1.8",
   "options.bowStance.old": "OLD",

@@ -686,6 +686,8 @@
   "options.advancedOpenGL": "Расширенный OpenGL",
   "options.advancedOpengl": "Расширенный OpenGL",
   "options.ao": "Плавное освещение",
+  "options.smoothWaterLighting": "Плавное освещение воды",
+  "options.smoothWaterLighting.tooltip": "Сглаживает переходы освещения на поверхности воды независимо от настройки плавного освещения.",
   "options.anaglyph": "3D анаглиф",
   "options.language": "Язык...",
   "options.language.tooltip": "Язык",

@@ -685,6 +685,8 @@
   "options.advancedOpenGL": "高度なOpenGL",
   "options.advancedOpengl": "高度なOpenGL",
   "options.ao": "スムースライティング",
+  "options.smoothWaterLighting": "水面のスムースライティング",
+  "options.smoothWaterLighting.tooltip": "スムースライティングとは別に、水面の明るさの変化を滑らかにします。",
   "options.anaglyph": "3Dアナグリフ",
   "options.language": "言語...",
   "options.language.tooltip": "言語",
