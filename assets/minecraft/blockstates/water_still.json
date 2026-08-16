@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "fluid=water,variant=still,level=0,falling=false": { "model": "minecraft:block/water_still" },
+    "fluid=water,variant=still,level=1,falling=false": { "model": "minecraft:block/water_still" },
+    "fluid=water,variant=still,level=2,falling=false": { "model": "minecraft:block/water_still" },
+    "fluid=water,variant=still,level=3,falling=false": { "model": "minecraft:block/water_still" },
+    "fluid=water,variant=still,level=4,falling=false": { "model": "minecraft:block/water_still" },
+    "fluid=water,variant=still,level=5,falling=false": { "model": "minecraft:block/water_still" },
+    "fluid=water,variant=still,level=6,falling=false": { "model": "minecraft:block/water_still" },
+    "fluid=water,variant=still,level=7,falling=false": { "model": "minecraft:block/water_still" },
+    "fluid=water,variant=still,level=8,falling=true": { "model": "minecraft:block/water_still" },
+    "fluid=water,variant=still,level=9,falling=true": { "model": "minecraft:block/water_still" },
+    "fluid=water,variant=still,level=10,falling=true": { "model": "minecraft:block/water_still" },
+    "fluid=water,variant=still,level=11,falling=true": { "model": "minecraft:block/water_still" },
+    "fluid=water,variant=still,level=12,falling=true": { "model": "minecraft:block/water_still" },
+    "fluid=water,variant=still,level=13,falling=true": { "model": "minecraft:block/water_still" },
+    "fluid=water,variant=still,level=14,falling=true": { "model": "minecraft:block/water_still" },
+    "fluid=water,variant=still,level=15,falling=true": { "model": "minecraft:block/water_still" }
+  }
+}

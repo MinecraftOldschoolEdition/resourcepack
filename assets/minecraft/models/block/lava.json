@@ -1,0 +1,4 @@
+{
+  "parent": "mcose:block/fluid_baked",
+  "textures": { "particle": "minecraft:block/lava" }
+}

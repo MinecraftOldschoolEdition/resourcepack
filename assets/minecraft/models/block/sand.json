@@ -1,0 +1,4 @@
+{
+  "parent": "mcose:block/beta_builtin",
+  "textures": { "particle": "minecraft:block/sand" }
+}

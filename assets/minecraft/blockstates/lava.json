@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "fluid=lava,variant=flowing,level=0,falling=false": { "model": "minecraft:block/lava" },
+    "fluid=lava,variant=flowing,level=1,falling=false": { "model": "minecraft:block/lava" },
+    "fluid=lava,variant=flowing,level=2,falling=false": { "model": "minecraft:block/lava" },
+    "fluid=lava,variant=flowing,level=3,falling=false": { "model": "minecraft:block/lava" },
+    "fluid=lava,variant=flowing,level=4,falling=false": { "model": "minecraft:block/lava" },
+    "fluid=lava,variant=flowing,level=5,falling=false": { "model": "minecraft:block/lava" },
+    "fluid=lava,variant=flowing,level=6,falling=false": { "model": "minecraft:block/lava" },
+    "fluid=lava,variant=flowing,level=7,falling=false": { "model": "minecraft:block/lava" },
+    "fluid=lava,variant=flowing,level=8,falling=true": { "model": "minecraft:block/lava" },
+    "fluid=lava,variant=flowing,level=9,falling=true": { "model": "minecraft:block/lava" },
+    "fluid=lava,variant=flowing,level=10,falling=true": { "model": "minecraft:block/lava" },
+    "fluid=lava,variant=flowing,level=11,falling=true": { "model": "minecraft:block/lava" },
+    "fluid=lava,variant=flowing,level=12,falling=true": { "model": "minecraft:block/lava" },
+    "fluid=lava,variant=flowing,level=13,falling=true": { "model": "minecraft:block/lava" },
+    "fluid=lava,variant=flowing,level=14,falling=true": { "model": "minecraft:block/lava" },
+    "fluid=lava,variant=flowing,level=15,falling=true": { "model": "minecraft:block/lava" }
+  }
+}

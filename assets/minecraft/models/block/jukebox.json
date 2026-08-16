@@ -1,0 +1,4 @@
+{
+  "parent": "mcose:block/beta_baked",
+  "textures": { "particle": "minecraft:block/jukebox" }
+}
