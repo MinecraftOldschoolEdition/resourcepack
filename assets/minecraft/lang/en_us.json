@@ -1207,7 +1207,7 @@
   "options.videoTitle": "Video Settings",
   "options.viewBobbing": "View Bobbing",
   "options.viewBobbing.tooltip": "Makes the camera bob while walking.",
-  "options.disablePortalDistortion": "Disable Portal Distortion",
+  "options.disablePortalDistortion": "Portal Camera Distortion",
   "options.disablePortalDistortion.tooltip": "Disables the warping camera effect inside Nether portals. The portal overlay remains visible.",
   "options.vignette": "Vignette",
   "options.vignette.tooltip": "This is a subtle texture over the game screen used for reducing brightness towards the edges of the screen and warning about the world border.",
