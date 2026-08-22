@@ -965,7 +965,7 @@
   "options.cloudShadows": "Cloud Shadows",
   "options.cloudShadows.tooltip": "Casts soft moving cloud shadows across sunlit terrain when clouds are visible. Requires the Vulkan renderer.",
   "options.waterSunGlint": "Water Sun Glint",
-  "options.waterSunGlint.tooltip": "Adds a subtle specular highlight to exposed water when the sun is visible. Requires the Vulkan renderer.",
+  "options.waterSunGlint.tooltip": "Adds a square, stylized sun highlight to exposed water. Clouds and terrain can block it. Requires the Vulkan renderer.",
   "options.vulkanDynamicShadows": "Vulkan Dynamic Shadows (Very Experimental)",
   "options.vulkanDynamicShadows.tooltip": "Very, VERY buggy. Enables shadow-mapped dynamic shadows powered by Vulkan shadow maps.",
   "options.emissiveShadowCasting": "Emissive Shadow Casting",
