@@ -964,6 +964,8 @@
   "options.screenSpaceWaterReflections.tooltip": "Reflects the world on water and adds faint reflections to glass. Requires the Vulkan renderer and may reduce performance.",
   "options.cloudShadows": "Cloud Shadows",
   "options.cloudShadows.tooltip": "Casts soft moving cloud shadows across sunlit terrain when clouds are visible. Requires the Vulkan renderer.",
+  "options.fluffCloudTextures": "Fluff Cloud Textures",
+  "options.fluffCloudTextures.tooltip": "Cloud textures from Infdev",
   "options.waterSunGlint": "Water Sun Glint",
   "options.waterSunGlint.tooltip": "Adds a square, stylized sun highlight to exposed water. Clouds and terrain can block it. Requires the Vulkan renderer.",
   "options.vulkanDynamicShadows": "Vulkan Dynamic Shadows (Very Experimental)",
