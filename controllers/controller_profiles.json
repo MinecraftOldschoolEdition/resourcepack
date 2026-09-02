@@ -1,0 +1,203 @@
+{
+  "profiles": [
+    {
+      "id": "generic",
+      "type": "GENERIC",
+      "legacyProfileName": "XInput",
+      "defaultIconStyle": "default",
+      "triggerModel": "SEPARATE",
+      "axisMap": {
+        "left_x": 0,
+        "left_y": 1,
+        "right_x": 2,
+        "right_y": 3,
+        "lt": 4,
+        "rt": 5
+      },
+      "invert": {
+        "left_x": false,
+        "left_y": false,
+        "right_x": false,
+        "right_y": false,
+        "lt": false,
+        "rt": false
+      },
+      "aliases": [
+        "gamepad",
+        "controller"
+      ]
+    },
+    {
+      "id": "xbox",
+      "type": "XBOX",
+      "legacyProfileName": "XInput",
+      "defaultIconStyle": "XboxSeriesX",
+      "triggerModel": "SEPARATE",
+      "axisMap": {
+        "left_x": 0,
+        "left_y": 1,
+        "right_x": 2,
+        "right_y": 3,
+        "lt": 4,
+        "rt": 5
+      },
+      "invert": {
+        "left_x": false,
+        "left_y": false,
+        "right_x": false,
+        "right_y": false,
+        "lt": false,
+        "rt": false
+      },
+      "aliases": [
+        "xbox",
+        "x-box",
+        "xinput",
+        "microsoft",
+        "045e",
+        "5e04",
+        "xbox wireless"
+      ]
+    },
+    {
+      "id": "dualsense",
+      "type": "DUALSENSE",
+      "legacyProfileName": "PlayStation5",
+      "defaultIconStyle": "PlayStation5",
+      "triggerModel": "SEPARATE",
+      "axisMap": {
+        "left_x": 0,
+        "left_y": 1,
+        "right_x": 2,
+        "right_y": 3,
+        "lt": 4,
+        "rt": 5
+      },
+      "invert": {
+        "left_x": false,
+        "left_y": false,
+        "right_x": false,
+        "right_y": false,
+        "lt": false,
+        "rt": false
+      },
+      "aliases": [
+        "dualsense",
+        "dualshock",
+        "playstation",
+        "ps5",
+        "ps4",
+        "sony",
+        "054c",
+        "4c05",
+        "e60c",
+        "f20d",
+        "054c0ce6",
+        "054c0df2"
+      ]
+    },
+    {
+      "id": "switch",
+      "type": "SWITCH",
+      "legacyProfileName": "Switch",
+      "defaultIconStyle": "Switch",
+      "triggerModel": "SEPARATE",
+      "axisMap": {
+        "left_x": 0,
+        "left_y": 1,
+        "right_x": 2,
+        "right_y": 3,
+        "lt": 4,
+        "rt": 5
+      },
+      "invert": {
+        "left_x": false,
+        "left_y": false,
+        "right_x": false,
+        "right_y": false,
+        "lt": false,
+        "rt": false
+      },
+      "aliases": [
+        "switch",
+        "nintendo",
+        "joy-con",
+        "joycon",
+        "pro controller",
+        "057e",
+        "7e05",
+        "0920",
+        "0820",
+        "057e2009",
+        "057e2008"
+      ]
+    },
+    {
+      "id": "steam_deck",
+      "type": "STEAM_DECK",
+      "legacyProfileName": "XInput",
+      "defaultIconStyle": "default",
+      "triggerModel": "SEPARATE",
+      "axisMap": {
+        "left_x": 0,
+        "left_y": 1,
+        "right_x": 2,
+        "right_y": 3,
+        "lt": 4,
+        "rt": 5
+      },
+      "invert": {
+        "left_x": false,
+        "left_y": false,
+        "right_x": false,
+        "right_y": false,
+        "lt": false,
+        "rt": false
+      },
+      "aliases": [
+        "steam deck",
+        "valve steam deck",
+        "0512",
+        "1205"
+      ]
+    },
+    {
+      "id": "steam_controller",
+      "type": "STEAM_CONTROLLER",
+      "legacyProfileName": "XInput",
+      "defaultIconStyle": "default",
+      "triggerModel": "SEPARATE",
+      "axisMap": {
+        "left_x": 0,
+        "left_y": 1,
+        "right_x": 2,
+        "right_y": 3,
+        "lt": 4,
+        "rt": 5
+      },
+      "invert": {
+        "left_x": false,
+        "left_y": false,
+        "right_x": false,
+        "right_y": false,
+        "lt": false,
+        "rt": false
+      },
+      "aliases": [
+        "steam controller",
+        "valve steam controller",
+        "steam virtual gamepad",
+        "0112",
+        "0211",
+        "4211",
+        "fc11",
+        "ff11",
+        "0511",
+        "0611",
+        "1105",
+        "1106",
+        "11ff"
+      ]
+    }
+  ]
+}

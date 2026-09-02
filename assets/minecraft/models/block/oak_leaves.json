@@ -1,4 +1,7 @@
 {
-  "parent": "mcose:block/beta_baked",
-  "textures": { "particle": "minecraft:block/oak_leaves" }
+  "parent": "minecraft:block/leaves",
+  "textures": {
+    "particle": "minecraft:block/oak_leaves",
+    "all": "minecraft:block/oak_leaves"
+  }
 }

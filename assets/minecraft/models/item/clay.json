@@ -1,4 +1,4 @@
 {
   "parent": "mcose:item/beta_baked",
-  "textures": { "layer0": "minecraft:item/clay" }
+  "textures": { "layer0": "minecraft:item/clay_ball" }
 }

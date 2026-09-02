@@ -1,0 +1,11 @@
+{
+  "axis_left_x": "0",
+  "axis_left_y": "1",
+  "axis_right_x": "2",
+  "axis_right_y": "3",
+  "axis_lt": "4",
+  "axis_rt": "5",
+  "invert_lt": "false",
+  "invert_rt": "false"
+}
+
