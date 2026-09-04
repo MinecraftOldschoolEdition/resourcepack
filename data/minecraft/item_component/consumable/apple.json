@@ -1,0 +1,12 @@
+{
+  "consume_seconds": 0,
+  "animation": "none",
+  "sound": "minecraft:intentionally_empty",
+  "has_consume_particles": false,
+  "on_consume_effects": [
+    {
+      "type": "mcose:legacy_heal",
+      "amount": 4
+    }
+  ]
+}
