@@ -1,0 +1,31 @@
+{
+  "feature": "minecraft:spring_water",
+  "placement": [
+    {
+      "type": "minecraft:count",
+      "count": 28
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "mcose:legacy_heightmap",
+      "heightmap": "WORLD_SURFACE"
+    },
+    {
+      "type": "mcose:heightmap_depth",
+      "depth": {
+        "type": "minecraft:uniform",
+        "min_inclusive": 0,
+        "max_inclusive": 19
+      }
+    },
+    {
+      "type": "mcose:absolute_height_filter",
+      "min_inclusive": 25
+    },
+    {
+      "type": "mcose:chunk_biome"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "type": "mcose:layered_cascade",
+  "lake_feature": "minecraft:lake_water",
+  "surface_scan": {
+    "min_y": 2,
+    "max_y": 126,
+    "target_condition": {
+      "type": "minecraft:all_of",
+      "predicates": [
+        {
+          "type": "mcose:solid_material"
+        },
+        {
+          "type": "mcose:is_air",
+          "offset": [
+            0,
+            1,
+            0
+          ]
+        },
+        {
+          "type": "mcose:is_air",
+          "offset": [
+            0,
+            2,
+            0
+          ]
+        }
+      ]
+    }
+  },
+  "upper_min_y": 42,
+  "lower_min_y": 24,
+  "min_drop": 12,
+  "lower_offset": {
+    "x": {
+      "type": "minecraft:trapezoid",
+      "min": -6,
+      "max": 6,
+      "plateau": 0
+    },
+    "z": {
+      "type": "minecraft:trapezoid",
+      "min": -6,
+      "max": 6,
+      "plateau": 0
+    }
+  },
+  "upper_depth": {
+    "type": "minecraft:uniform",
+    "min_inclusive": 1,
+    "max_inclusive": 2
+  },
+  "lower_depth": 1,
+  "min_lake_separation": 6,
+  "outlet": {
+    "xz_step": 1,
+    "y_offset": 1,
+    "provider": {
+      "type": "minecraft:simple_state_provider",
+      "state": "minecraft:water"
+    },
+    "allowed_placement": {
+      "type": "mcose:is_air"
+    },
+    "mcose:notify": true
+  }
+}

@@ -29,7 +29,12 @@
       "minecraft:spring_lava"
     ],
     [
-      "minecraft:trees_beta"
+      "minecraft:trees_beta",
+      "minecraft:patch_poppy_beta",
+      "minecraft:patch_brown_mushroom_beta",
+      "minecraft:patch_red_mushroom_beta",
+      "minecraft:patch_sugar_cane_beta",
+      "minecraft:patch_pumpkin_beta"
     ],
     [
       "minecraft:freeze_top_layer"

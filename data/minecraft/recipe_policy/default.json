@@ -1,0 +1,7 @@
+{
+  "type": "mcose:legacy_ordered",
+  "baseline": ["#minecraft:legacy_baseline"],
+  "smelting": ["#minecraft:legacy_smelting"],
+  "additions": ["#minecraft:legacy_additions"],
+  "disabled": ["#minecraft:server_legacy_variants"]
+}

@@ -1,0 +1,26 @@
+{
+  "values": [
+    "minecraft:shaped/wooden_pickaxe_0",
+    "minecraft:shaped/wooden_shovel_87",
+    "minecraft:shaped/wooden_axe_46",
+    "minecraft:shaped/wooden_hoe_47",
+    "minecraft:shaped/stone_pickaxe_1",
+    "minecraft:shaped/stone_shovel_88",
+    "minecraft:shaped/stone_axe_48",
+    "minecraft:shaped/stone_hoe_49",
+    "minecraft:shaped/iron_pickaxe_2",
+    "minecraft:shaped/iron_shovel_89",
+    "minecraft:shaped/iron_axe_50",
+    "minecraft:shaped/iron_hoe_51",
+    "minecraft:shaped/diamond_pickaxe_3",
+    "minecraft:shaped/diamond_shovel_90",
+    "minecraft:shaped/diamond_axe_52",
+    "minecraft:shaped/diamond_hoe_53",
+    "minecraft:shaped/golden_pickaxe_4",
+    "minecraft:shaped/golden_shovel_91",
+    "minecraft:shaped/golden_axe_54",
+    "minecraft:shaped/golden_hoe_55",
+    "minecraft:shaped/shears_77"
+  ],
+  "replace": false
+}

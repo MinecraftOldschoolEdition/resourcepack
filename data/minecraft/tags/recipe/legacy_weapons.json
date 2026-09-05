@@ -1,0 +1,12 @@
+{
+  "values": [
+    "minecraft:shaped/wooden_sword_92",
+    "minecraft:shaped/stone_sword_93",
+    "minecraft:shaped/iron_sword_94",
+    "minecraft:shaped/diamond_sword_95",
+    "minecraft:shaped/golden_sword_96",
+    "minecraft:shaped/bow_5",
+    "minecraft:shaped/arrow_97"
+  ],
+  "replace": false
+}

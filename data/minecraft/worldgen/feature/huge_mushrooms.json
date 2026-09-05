@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:weighted_random_selector",
+  "features": [
+    {
+      "data": "minecraft:huge_brown_mushroom",
+      "weight": 1
+    },
+    {
+      "data": "minecraft:huge_red_mushroom",
+      "weight": 1
+    }
+  ]
+}

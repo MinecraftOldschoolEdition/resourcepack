@@ -1,0 +1,31 @@
+{
+  "type": "mcose:legacy_origin",
+  "feature": "minecraft:glowstone_nether_sky_rare_spread",
+  "placement": [
+    {
+      "type": "minecraft:block_predicate_filter",
+      "predicate": {
+        "type": "minecraft:all_of",
+        "predicates": [
+          {
+            "type": "mcose:is_air"
+          },
+          {
+            "type": "minecraft:matching_blocks",
+            "blocks": [
+              "minecraft:netherrack",
+              "minecraft:soul_sand",
+              "minecraft:gravel"
+            ],
+            "offset": [
+              0,
+              1,
+              0
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "return_policy": "child_result"
+}

@@ -1,0 +1,20 @@
+{
+  "feature": "minecraft:fancy_oak_infdev",
+  "placement": [
+    {
+      "type": "mcose:noise_count",
+      "noise_scale": 0.25,
+      "count_shift": 3
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "minecraft:heightmap",
+      "heightmap": "WORLD_SURFACE"
+    },
+    {
+      "type": "mcose:chunk_biome"
+    }
+  ]
+}

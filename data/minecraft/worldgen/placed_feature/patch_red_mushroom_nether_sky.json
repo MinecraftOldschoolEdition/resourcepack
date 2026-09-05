@@ -1,0 +1,52 @@
+{
+  "feature": "minecraft:red_mushroom_registered",
+  "placement": [
+    {
+      "type": "minecraft:rarity_filter",
+      "chance": 2
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "mcose:height_search",
+      "searches": [
+        {
+          "type": "mcose:scan",
+          "min_y": 2,
+          "max_y": 126,
+          "direction": "down",
+          "target_condition": {
+            "type": "minecraft:all_of",
+            "predicates": [
+              {
+                "type": "mcose:is_air"
+              },
+              {
+                "type": "minecraft:matching_blocks",
+                "blocks": [
+                  "minecraft:netherrack",
+                  "minecraft:soul_sand",
+                  "minecraft:gravel"
+                ],
+                "offset": [
+                  0,
+                  -1,
+                  0
+                ]
+              }
+            ]
+          },
+          "offset": 0
+        }
+      ]
+    },
+    {
+      "type": "mcose:absolute_height_filter",
+      "min_inclusive": 1
+    },
+    {
+      "type": "mcose:chunk_biome"
+    }
+  ]
+}

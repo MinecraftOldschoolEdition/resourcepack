@@ -1,0 +1,88 @@
+{
+  "feature": "minecraft:spring_nether_open",
+  "placement": [
+    {
+      "type": "minecraft:count",
+      "count": 3
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "mcose:height_search",
+      "searches": [
+        {
+          "type": "mcose:sampled",
+          "attempts": 16,
+          "height": {
+            "type": "minecraft:uniform",
+            "min_inclusive": 16,
+            "max_inclusive": 111
+          },
+          "target_condition": {
+            "type": "minecraft:all_of",
+            "predicates": [
+              {
+                "type": "minecraft:any_of",
+                "predicates": [
+                  {
+                    "type": "mcose:is_air"
+                  },
+                  {
+                    "type": "minecraft:matching_blocks",
+                    "blocks": "minecraft:netherrack"
+                  }
+                ]
+              },
+              {
+                "type": "minecraft:matching_blocks",
+                "blocks": "minecraft:netherrack",
+                "offset": [
+                  0,
+                  1,
+                  0
+                ]
+              }
+            ]
+          },
+          "offset": 0
+        },
+        {
+          "type": "mcose:scan",
+          "min_y": 8,
+          "max_y": 118,
+          "direction": "down",
+          "target_condition": {
+            "type": "minecraft:all_of",
+            "predicates": [
+              {
+                "type": "minecraft:matching_blocks",
+                "blocks": [
+                  "minecraft:netherrack",
+                  "minecraft:soul_sand",
+                  "minecraft:gravel"
+                ]
+              },
+              {
+                "type": "mcose:is_air",
+                "offset": [
+                  0,
+                  -1,
+                  0
+                ]
+              }
+            ]
+          },
+          "offset": -1
+        }
+      ]
+    },
+    {
+      "type": "mcose:absolute_height_filter",
+      "min_inclusive": 1
+    },
+    {
+      "type": "mcose:chunk_biome"
+    }
+  ]
+}

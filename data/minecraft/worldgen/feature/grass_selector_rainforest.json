@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:weighted_random_selector",
+  "features": [
+    {
+      "data": "minecraft:tall_grass_registered",
+      "weight": 1
+    },
+    {
+      "data": "minecraft:fern_registered",
+      "weight": 2
+    }
+  ]
+}

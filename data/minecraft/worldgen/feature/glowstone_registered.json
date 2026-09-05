@@ -1,0 +1,27 @@
+{
+  "type": "mcose:legacy_origin",
+  "feature": "minecraft:glowstone_extra",
+  "placement": [
+    {
+      "type": "minecraft:block_predicate_filter",
+      "predicate": {
+        "type": "minecraft:all_of",
+        "predicates": [
+          {
+            "type": "mcose:is_air"
+          },
+          {
+            "type": "minecraft:matching_blocks",
+            "blocks": "minecraft:netherrack",
+            "offset": [
+              0,
+              1,
+              0
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "return_policy": "child_result"
+}

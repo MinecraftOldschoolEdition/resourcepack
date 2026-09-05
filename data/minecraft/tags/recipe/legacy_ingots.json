@@ -1,0 +1,13 @@
+{
+  "values": [
+    "minecraft:shaped/gold_block_6",
+    "minecraft:shaped/gold_ingot_122",
+    "minecraft:shaped/iron_block_7",
+    "minecraft:shaped/iron_ingot_123",
+    "minecraft:shaped/diamond_block_8",
+    "minecraft:shaped/diamond_124",
+    "minecraft:shaped/lapis_block_9",
+    "minecraft:shaped/dye_125"
+  ],
+  "replace": false
+}

@@ -1,0 +1,43 @@
+{
+  "default": {
+    "features": [
+      [],
+      [],
+      [
+        "minecraft:clay"
+      ],
+      [
+        "minecraft:monster_room"
+      ],
+      [],
+      [],
+      [
+        "minecraft:ore_dirt_infdev",
+        "minecraft:ore_gravel_infdev",
+        "minecraft:ore_coal_infdev",
+        "minecraft:ore_iron_infdev",
+        "minecraft:ore_gold_infdev",
+        "minecraft:ore_redstone_infdev",
+        "minecraft:ore_diamond_infdev",
+        "minecraft:ore_lapis_infdev"
+      ],
+      [],
+      [
+        "minecraft:spring_water",
+        "minecraft:spring_lava"
+      ],
+      [
+        "minecraft:trees_infdev",
+        "minecraft:patch_dandelion_beta_2",
+        "minecraft:patch_poppy_beta",
+        "minecraft:patch_brown_mushroom_beta",
+        "minecraft:patch_red_mushroom_beta",
+        "minecraft:patch_sugar_cane_beta",
+        "minecraft:patch_cactus_infdev",
+        "minecraft:patch_pumpkin_beta"
+      ],
+      []
+    ]
+  },
+  "biomes": {}
+}

@@ -1,0 +1,26 @@
+{
+  "feature": "minecraft:sky_forest_cascade",
+  "placement": [
+    {
+      "type": "minecraft:rarity_filter",
+      "chance": 3
+    },
+    {
+      "type": "minecraft:count",
+      "count": 3
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "mcose:fixed_height",
+      "value": 0
+    },
+    {
+      "type": "mcose:stop_after_success"
+    },
+    {
+      "type": "mcose:chunk_biome"
+    }
+  ]
+}

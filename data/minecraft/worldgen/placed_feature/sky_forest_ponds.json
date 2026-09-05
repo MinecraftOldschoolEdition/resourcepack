@@ -1,0 +1,36 @@
+{
+  "feature": "minecraft:lake_water",
+  "placement": [
+    {
+      "type": "minecraft:count",
+      "count": {
+        "type": "minecraft:uniform",
+        "min_inclusive": 1,
+        "max_inclusive": 2
+      }
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "mcose:legacy_heightmap",
+      "heightmap": "WORLD_SURFACE"
+    },
+    {
+      "type": "mcose:heightmap_depth",
+      "depth": {
+        "type": "minecraft:uniform",
+        "min_inclusive": 1,
+        "max_inclusive": 3
+      }
+    },
+    {
+      "type": "mcose:absolute_height_filter",
+      "min_inclusive": 25,
+      "max_inclusive": 123
+    },
+    {
+      "type": "mcose:chunk_biome"
+    }
+  ]
+}

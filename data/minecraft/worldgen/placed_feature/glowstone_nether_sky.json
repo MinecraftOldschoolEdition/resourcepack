@@ -1,0 +1,52 @@
+{
+  "feature": "minecraft:glowstone_nether_sky_common",
+  "placement": [
+    {
+      "type": "minecraft:count",
+      "count": 4
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "mcose:height_search",
+      "searches": [
+        {
+          "type": "mcose:scan",
+          "min_y": 8,
+          "max_y": 118,
+          "direction": "down",
+          "target_condition": {
+            "type": "minecraft:all_of",
+            "predicates": [
+              {
+                "type": "minecraft:matching_blocks",
+                "blocks": [
+                  "minecraft:netherrack",
+                  "minecraft:soul_sand",
+                  "minecraft:gravel"
+                ]
+              },
+              {
+                "type": "mcose:is_air",
+                "offset": [
+                  0,
+                  -1,
+                  0
+                ]
+              }
+            ]
+          },
+          "offset": -1
+        }
+      ]
+    },
+    {
+      "type": "mcose:absolute_height_filter",
+      "min_inclusive": 1
+    },
+    {
+      "type": "mcose:chunk_biome"
+    }
+  ]
+}

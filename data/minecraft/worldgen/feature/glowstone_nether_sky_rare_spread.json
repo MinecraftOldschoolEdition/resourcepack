@@ -1,0 +1,39 @@
+{
+  "type": "minecraft:random_neighbor_spread",
+  "block": {
+    "type": "minecraft:simple_state_provider",
+    "state": "minecraft:glowstone"
+  },
+  "accepted_neighbors": "minecraft:glowstone",
+  "can_replace": {
+    "type": "minecraft:all_of",
+    "predicates": [
+      {
+        "type": "minecraft:height_range",
+        "min_inclusive": {
+          "absolute": 2
+        },
+        "max_inclusive": {
+          "absolute": 126
+        }
+      },
+      {
+        "type": "mcose:is_air"
+      }
+    ]
+  },
+  "attempts": 1050,
+  "xz_offset": {
+    "type": "minecraft:trapezoid",
+    "min": -7,
+    "max": 7,
+    "plateau": 0
+  },
+  "y_offset": {
+    "type": "mcose:legacy_negative_uniform",
+    "min_inclusive": -11,
+    "max_inclusive": 0
+  },
+  "mcose:notify": true,
+  "mcose:legacy_id_write": true
+}

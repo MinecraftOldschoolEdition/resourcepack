@@ -31,7 +31,13 @@
       ],
       [
         "minecraft:trees_sky",
-        "minecraft:trees_extra_sky"
+        "minecraft:trees_extra_sky",
+        "minecraft:patch_dandelion_beta_2",
+        "minecraft:patch_poppy_beta",
+        "minecraft:patch_brown_mushroom_beta",
+        "minecraft:patch_red_mushroom_beta",
+        "minecraft:patch_sugar_cane_beta",
+        "minecraft:patch_pumpkin_beta"
       ],
       [
         "minecraft:freeze_top_layer"
@@ -42,7 +48,11 @@
     "minecraft:forest": {
       "features": [
         [],
-        [],
+        [
+          "minecraft:sky_forest_ponds",
+          "minecraft:sky_forest_springs",
+          "minecraft:sky_forest_cascade"
+        ],
         [],
         [],
         [],
@@ -52,17 +62,32 @@
         [],
         [
           "minecraft:trees_forest_sky",
-          "minecraft:trees_extra_forest_sky"
+          "minecraft:trees_extra_forest_sky",
+          "minecraft:patch_dandelion_beta_2",
+          "minecraft:patch_poppy_beta",
+          "minecraft:patch_brown_mushroom_beta",
+          "minecraft:patch_red_mushroom_beta",
+          "minecraft:patch_tall_grass_beta_2",
+          "minecraft:patch_sugar_cane_beta",
+          "minecraft:patch_sugar_cane_sky_surface",
+          "minecraft:patch_pumpkin_beta"
         ]
       ],
       "override_stages": [
         9
+      ],
+      "append_stages": [
+        1
       ]
     },
     "minecraft:rainforest": {
       "features": [
         [],
-        [],
+        [
+          "minecraft:sky_forest_ponds",
+          "minecraft:sky_forest_springs",
+          "minecraft:sky_forest_cascade"
+        ],
         [],
         [],
         [],
@@ -72,17 +97,32 @@
         [],
         [
           "minecraft:trees_rainforest_sky",
-          "minecraft:trees_extra_rainforest_sky"
+          "minecraft:trees_extra_rainforest_sky",
+          "minecraft:patch_dandelion_beta_2",
+          "minecraft:patch_poppy_beta",
+          "minecraft:patch_brown_mushroom_beta",
+          "minecraft:patch_red_mushroom_beta",
+          "minecraft:patch_tall_grass_rainforest_beta",
+          "minecraft:patch_sugar_cane_beta",
+          "minecraft:patch_sugar_cane_sky_surface",
+          "minecraft:patch_pumpkin_beta"
         ]
       ],
       "override_stages": [
         9
+      ],
+      "append_stages": [
+        1
       ]
     },
     "minecraft:seasonal_forest": {
       "features": [
         [],
-        [],
+        [
+          "minecraft:sky_forest_ponds",
+          "minecraft:sky_forest_springs",
+          "minecraft:sky_forest_cascade"
+        ],
         [],
         [],
         [],
@@ -92,17 +132,32 @@
         [],
         [
           "minecraft:trees_seasonal_forest_sky",
-          "minecraft:trees_extra_sky"
+          "minecraft:trees_extra_sky",
+          "minecraft:patch_dandelion_beta_2",
+          "minecraft:patch_poppy_beta",
+          "minecraft:patch_brown_mushroom_beta",
+          "minecraft:patch_red_mushroom_beta",
+          "minecraft:patch_tall_grass_beta_2",
+          "minecraft:patch_sugar_cane_beta",
+          "minecraft:patch_sugar_cane_sky_surface",
+          "minecraft:patch_pumpkin_beta"
         ]
       ],
       "override_stages": [
         9
+      ],
+      "append_stages": [
+        1
       ]
     },
     "minecraft:taiga": {
       "features": [
         [],
-        [],
+        [
+          "minecraft:sky_forest_ponds",
+          "minecraft:sky_forest_springs",
+          "minecraft:sky_forest_cascade"
+        ],
         [],
         [],
         [],
@@ -112,11 +167,22 @@
         [],
         [
           "minecraft:trees_taiga_sky",
-          "minecraft:trees_extra_taiga_sky"
+          "minecraft:trees_extra_taiga_sky",
+          "minecraft:patch_dandelion_beta_2",
+          "minecraft:patch_poppy_beta",
+          "minecraft:patch_brown_mushroom_beta",
+          "minecraft:patch_red_mushroom_beta",
+          "minecraft:patch_tall_grass_beta_1",
+          "minecraft:patch_sugar_cane_beta",
+          "minecraft:patch_sugar_cane_sky_surface",
+          "minecraft:patch_pumpkin_beta"
         ]
       ],
       "override_stages": [
         9
+      ],
+      "append_stages": [
+        1
       ]
     },
     "minecraft:desert": {
@@ -132,7 +198,14 @@
         [],
         [
           "minecraft:trees_barren_sky",
-          "minecraft:trees_extra_sky"
+          "minecraft:trees_extra_sky",
+          "minecraft:patch_dandelion_beta_2",
+          "minecraft:patch_poppy_beta",
+          "minecraft:patch_brown_mushroom_beta",
+          "minecraft:patch_red_mushroom_beta",
+          "minecraft:patch_sugar_cane_beta",
+          "minecraft:patch_pumpkin_beta",
+          "minecraft:patch_cactus_beta"
         ]
       ],
       "override_stages": [
@@ -152,7 +225,14 @@
         [],
         [
           "minecraft:trees_barren_sky",
-          "minecraft:trees_extra_sky"
+          "minecraft:trees_extra_sky",
+          "minecraft:patch_dandelion_beta_2",
+          "minecraft:patch_poppy_beta",
+          "minecraft:patch_brown_mushroom_beta",
+          "minecraft:patch_red_mushroom_beta",
+          "minecraft:patch_tall_grass_beta_10",
+          "minecraft:patch_sugar_cane_beta",
+          "minecraft:patch_pumpkin_beta"
         ]
       ],
       "override_stages": [
@@ -172,7 +252,13 @@
         [],
         [
           "minecraft:trees_tundra_sky",
-          "minecraft:trees_extra_cold_sky"
+          "minecraft:trees_extra_cold_sky",
+          "minecraft:patch_dandelion_beta_2",
+          "minecraft:patch_poppy_beta",
+          "minecraft:patch_brown_mushroom_beta",
+          "minecraft:patch_red_mushroom_beta",
+          "minecraft:patch_sugar_cane_beta",
+          "minecraft:patch_pumpkin_beta"
         ]
       ],
       "override_stages": [
@@ -192,7 +278,13 @@
         [],
         [
           "minecraft:trees_ice_desert_sky",
-          "minecraft:trees_extra_cold_sky"
+          "minecraft:trees_extra_cold_sky",
+          "minecraft:patch_dandelion_beta_2",
+          "minecraft:patch_poppy_beta",
+          "minecraft:patch_brown_mushroom_beta",
+          "minecraft:patch_red_mushroom_beta",
+          "minecraft:patch_sugar_cane_beta",
+          "minecraft:patch_pumpkin_beta"
         ]
       ],
       "override_stages": [

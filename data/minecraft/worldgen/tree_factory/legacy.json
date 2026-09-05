@@ -1,0 +1,129 @@
+{
+  "fallback": "minecraft:oak_beta",
+  "foliage_paths": {
+    "blob_foliage_placer": "minecraft:oak_beta",
+    "fancy_foliage_placer": "minecraft:fancy_oak_beta_sapling",
+    "spruce_foliage_placer": "minecraft:spruce_beta",
+    "pine_foliage_placer": "minecraft:pine_beta"
+  },
+  "biome_selectors": {
+    "minecraft:default": "minecraft:trees_beta_sapling",
+    "minecraft:forest": "minecraft:tree_selector_forest_beta_unscaled",
+    "minecraft:rainforest": "minecraft:tree_selector_rainforest_beta_unscaled",
+    "minecraft:taiga": "minecraft:tree_selector_taiga_beta"
+  },
+  "world_features": [
+    {
+      "id": "minecraft:tree",
+      "feature": "minecraft:oak_beta"
+    },
+    {
+      "id": "minecraft:big_tree",
+      "feature": "minecraft:fancy_oak_beta_sapling"
+    },
+    {
+      "id": "minecraft:forest_tree",
+      "feature": "minecraft:birch_beta"
+    },
+    {
+      "id": "minecraft:taiga_tree_1",
+      "feature": "minecraft:pine_beta"
+    },
+    {
+      "id": "minecraft:taiga_tree_2",
+      "feature": "minecraft:spruce_beta"
+    },
+    {
+      "id": "minecraft:big_mushroom",
+      "feature": "minecraft:huge_mushrooms"
+    },
+    {
+      "id": "minecraft:ore_coal",
+      "feature": "minecraft:ore_coal"
+    },
+    {
+      "id": "minecraft:ore_iron",
+      "feature": "minecraft:ore_iron"
+    },
+    {
+      "id": "minecraft:ore_gold",
+      "feature": "minecraft:ore_gold"
+    },
+    {
+      "id": "minecraft:ore_redstone",
+      "feature": "minecraft:ore_redstone"
+    },
+    {
+      "id": "minecraft:ore_diamond",
+      "feature": "minecraft:ore_diamond"
+    },
+    {
+      "id": "minecraft:ore_lapis",
+      "feature": "minecraft:ore_lapis"
+    },
+    {
+      "id": "minecraft:flowers",
+      "feature": "minecraft:flowers_registered"
+    },
+    {
+      "id": "minecraft:tall_grass",
+      "feature": "minecraft:tall_grass_registered"
+    },
+    {
+      "id": "minecraft:dead_bush",
+      "feature": "minecraft:dead_bush_registered"
+    },
+    {
+      "id": "minecraft:reed",
+      "feature": "minecraft:reed_registered"
+    },
+    {
+      "id": "minecraft:cactus",
+      "feature": "minecraft:cactus_registered"
+    },
+    {
+      "id": "minecraft:pumpkin",
+      "feature": "minecraft:pumpkin_registered"
+    },
+    {
+      "id": "minecraft:clay",
+      "feature": "minecraft:clay_registered"
+    },
+    {
+      "id": "minecraft:water_lake",
+      "feature": "minecraft:lake_water"
+    },
+    {
+      "id": "minecraft:lava_lake",
+      "feature": "minecraft:lake_lava"
+    },
+    {
+      "id": "minecraft:spring_water",
+      "feature": "minecraft:spring_water"
+    },
+    {
+      "id": "minecraft:spring_lava",
+      "feature": "minecraft:spring_lava_overworld"
+    },
+    {
+      "id": "minecraft:dungeon",
+      "feature": "minecraft:monster_room"
+    },
+    {
+      "id": "minecraft:hell_lava",
+      "feature": "minecraft:spring_nether_open"
+    },
+    {
+      "id": "minecraft:glowstone_1",
+      "feature": "minecraft:glowstone_registered"
+    },
+    {
+      "id": "minecraft:glowstone_2",
+      "feature": "minecraft:glowstone_registered"
+    },
+    {
+      "id": "minecraft:fire",
+      "feature": "minecraft:fire_registered"
+    }
+  ]
+}

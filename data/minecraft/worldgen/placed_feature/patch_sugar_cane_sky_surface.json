@@ -1,0 +1,27 @@
+{
+  "feature": "minecraft:reed_registered",
+  "placement": [
+    {
+      "type": "minecraft:count",
+      "count": 8
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "mcose:legacy_heightmap",
+      "heightmap": "WORLD_SURFACE"
+    },
+    {
+      "type": "mcose:heightmap_depth",
+      "depth": {
+        "type": "minecraft:uniform",
+        "min_inclusive": 0,
+        "max_inclusive": 7
+      }
+    },
+    {
+      "type": "mcose:chunk_biome"
+    }
+  ]
+}

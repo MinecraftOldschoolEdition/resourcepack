@@ -1,0 +1,25 @@
+{
+  "values": [
+    "minecraft:shaped/leather_helmet_56",
+    "minecraft:shaped/leather_chestplate_12",
+    "minecraft:shaped/leather_leggings_13",
+    "minecraft:shaped/leather_boots_57",
+    "minecraft:shaped/chainmail_helmet_58",
+    "minecraft:shaped/chainmail_chestplate_14",
+    "minecraft:shaped/chainmail_leggings_15",
+    "minecraft:shaped/chainmail_boots_59",
+    "minecraft:shaped/iron_helmet_60",
+    "minecraft:shaped/iron_chestplate_16",
+    "minecraft:shaped/iron_leggings_17",
+    "minecraft:shaped/iron_boots_61",
+    "minecraft:shaped/diamond_helmet_62",
+    "minecraft:shaped/diamond_chestplate_18",
+    "minecraft:shaped/diamond_leggings_19",
+    "minecraft:shaped/diamond_boots_63",
+    "minecraft:shaped/golden_helmet_64",
+    "minecraft:shaped/golden_chestplate_20",
+    "minecraft:shaped/golden_leggings_21",
+    "minecraft:shaped/golden_boots_65"
+  ],
+  "replace": false
+}

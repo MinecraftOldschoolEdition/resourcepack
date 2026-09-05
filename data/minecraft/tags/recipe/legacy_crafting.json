@@ -1,0 +1,10 @@
+{
+  "values": [
+    "minecraft:shaped/chest_10",
+    "minecraft:shaped/furnace_11",
+    "minecraft:shaped/crafting_table_78",
+    "minecraft:shaped/sandstone_79",
+    "minecraft:shaped/stone_bricks_80"
+  ],
+  "replace": false
+}
