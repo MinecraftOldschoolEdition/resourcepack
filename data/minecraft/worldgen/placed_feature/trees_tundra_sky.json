@@ -1,0 +1,29 @@
+{
+  "feature": "minecraft:tree_selector_taiga_beta",
+  "placement": [
+    {
+      "type": "mcose:beta_tree_count",
+      "noise_scale": 0.5,
+      "noise_divisor": 8,
+      "random_scale": 4,
+      "offset": 4,
+      "divisor": 3,
+      "extra_chance": 10,
+      "use_noise": false,
+      "count_offset": -20
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "mcose:select_tree"
+    },
+    {
+      "type": "minecraft:heightmap",
+      "heightmap": "WORLD_SURFACE"
+    },
+    {
+      "type": "mcose:chunk_biome"
+    }
+  ]
+}

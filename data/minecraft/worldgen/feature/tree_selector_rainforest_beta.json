@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:weighted_random_selector",
+  "features": [
+    {
+      "data": "minecraft:fancy_oak_beta",
+      "weight": 1
+    },
+    {
+      "data": "minecraft:oak_beta",
+      "weight": 2
+    }
+  ]
+}

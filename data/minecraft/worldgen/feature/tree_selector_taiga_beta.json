@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:weighted_random_selector",
+  "features": [
+    {
+      "data": "minecraft:pine_beta",
+      "weight": 1
+    },
+    {
+      "data": "minecraft:spruce_beta",
+      "weight": 2
+    }
+  ]
+}

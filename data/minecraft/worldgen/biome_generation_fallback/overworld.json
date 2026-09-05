@@ -1,0 +1,20 @@
+{
+  "base_biome": "minecraft:plains",
+  "override_stages": [
+    9
+  ],
+  "features": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "minecraft:trees_beta"
+    ]
+  ]
+}
