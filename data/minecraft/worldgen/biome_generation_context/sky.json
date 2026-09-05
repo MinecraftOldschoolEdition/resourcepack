@@ -42,313 +42,161 @@
     "minecraft:forest": {
       "features": [
         [],
-        [
-          "minecraft:lake_water",
-          "minecraft:lake_lava"
-        ],
-        [
-          "minecraft:clay"
-        ],
-        [
-          "minecraft:monster_room"
-        ],
         [],
         [],
-        [
-          "minecraft:ore_dirt",
-          "minecraft:ore_gravel",
-          "minecraft:ore_coal_sky",
-          "minecraft:ore_iron_sky",
-          "minecraft:ore_gold_sky",
-          "minecraft:ore_redstone_sky",
-          "minecraft:ore_diamond_sky",
-          "minecraft:ore_lapis_sky"
-        ],
         [],
-        [
-          "minecraft:spring_water",
-          "minecraft:spring_lava"
-        ],
+        [],
+        [],
+        [],
+        [],
+        [],
         [
           "minecraft:trees_forest_sky",
           "minecraft:trees_extra_forest_sky"
-        ],
-        [
-          "minecraft:freeze_top_layer"
         ]
+      ],
+      "override_stages": [
+        9
       ]
     },
     "minecraft:rainforest": {
       "features": [
         [],
-        [
-          "minecraft:lake_water",
-          "minecraft:lake_lava"
-        ],
-        [
-          "minecraft:clay"
-        ],
-        [
-          "minecraft:monster_room"
-        ],
         [],
         [],
-        [
-          "minecraft:ore_dirt",
-          "minecraft:ore_gravel",
-          "minecraft:ore_coal_sky",
-          "minecraft:ore_iron_sky",
-          "minecraft:ore_gold_sky",
-          "minecraft:ore_redstone_sky",
-          "minecraft:ore_diamond_sky",
-          "minecraft:ore_lapis_sky"
-        ],
         [],
-        [
-          "minecraft:spring_water",
-          "minecraft:spring_lava"
-        ],
+        [],
+        [],
+        [],
+        [],
+        [],
         [
           "minecraft:trees_rainforest_sky",
           "minecraft:trees_extra_rainforest_sky"
-        ],
-        [
-          "minecraft:freeze_top_layer"
         ]
+      ],
+      "override_stages": [
+        9
       ]
     },
     "minecraft:seasonal_forest": {
       "features": [
         [],
-        [
-          "minecraft:lake_water",
-          "minecraft:lake_lava"
-        ],
-        [
-          "minecraft:clay"
-        ],
-        [
-          "minecraft:monster_room"
-        ],
         [],
         [],
-        [
-          "minecraft:ore_dirt",
-          "minecraft:ore_gravel",
-          "minecraft:ore_coal_sky",
-          "minecraft:ore_iron_sky",
-          "minecraft:ore_gold_sky",
-          "minecraft:ore_redstone_sky",
-          "minecraft:ore_diamond_sky",
-          "minecraft:ore_lapis_sky"
-        ],
         [],
-        [
-          "minecraft:spring_water",
-          "minecraft:spring_lava"
-        ],
+        [],
+        [],
+        [],
+        [],
+        [],
         [
           "minecraft:trees_seasonal_forest_sky",
           "minecraft:trees_extra_sky"
-        ],
-        [
-          "minecraft:freeze_top_layer"
         ]
+      ],
+      "override_stages": [
+        9
       ]
     },
     "minecraft:taiga": {
       "features": [
         [],
-        [
-          "minecraft:lake_water",
-          "minecraft:lake_lava"
-        ],
-        [
-          "minecraft:clay"
-        ],
-        [
-          "minecraft:monster_room"
-        ],
         [],
         [],
-        [
-          "minecraft:ore_dirt",
-          "minecraft:ore_gravel",
-          "minecraft:ore_coal_sky",
-          "minecraft:ore_iron_sky",
-          "minecraft:ore_gold_sky",
-          "minecraft:ore_redstone_sky",
-          "minecraft:ore_diamond_sky",
-          "minecraft:ore_lapis_sky"
-        ],
         [],
-        [
-          "minecraft:spring_water",
-          "minecraft:spring_lava"
-        ],
+        [],
+        [],
+        [],
+        [],
+        [],
         [
           "minecraft:trees_taiga_sky",
           "minecraft:trees_extra_taiga_sky"
-        ],
-        [
-          "minecraft:freeze_top_layer"
         ]
+      ],
+      "override_stages": [
+        9
       ]
     },
     "minecraft:desert": {
       "features": [
         [],
-        [
-          "minecraft:lake_water",
-          "minecraft:lake_lava"
-        ],
-        [
-          "minecraft:clay"
-        ],
-        [
-          "minecraft:monster_room"
-        ],
         [],
         [],
-        [
-          "minecraft:ore_dirt",
-          "minecraft:ore_gravel",
-          "minecraft:ore_coal_sky",
-          "minecraft:ore_iron_sky",
-          "minecraft:ore_gold_sky",
-          "minecraft:ore_redstone_sky",
-          "minecraft:ore_diamond_sky",
-          "minecraft:ore_lapis_sky"
-        ],
         [],
-        [
-          "minecraft:spring_water",
-          "minecraft:spring_lava"
-        ],
+        [],
+        [],
+        [],
+        [],
+        [],
         [
           "minecraft:trees_barren_sky",
           "minecraft:trees_extra_sky"
-        ],
-        [
-          "minecraft:freeze_top_layer"
         ]
+      ],
+      "override_stages": [
+        9
       ]
     },
     "minecraft:plains": {
       "features": [
         [],
-        [
-          "minecraft:lake_water",
-          "minecraft:lake_lava"
-        ],
-        [
-          "minecraft:clay"
-        ],
-        [
-          "minecraft:monster_room"
-        ],
         [],
         [],
-        [
-          "minecraft:ore_dirt",
-          "minecraft:ore_gravel",
-          "minecraft:ore_coal_sky",
-          "minecraft:ore_iron_sky",
-          "minecraft:ore_gold_sky",
-          "minecraft:ore_redstone_sky",
-          "minecraft:ore_diamond_sky",
-          "minecraft:ore_lapis_sky"
-        ],
         [],
-        [
-          "minecraft:spring_water",
-          "minecraft:spring_lava"
-        ],
+        [],
+        [],
+        [],
+        [],
+        [],
         [
           "minecraft:trees_barren_sky",
           "minecraft:trees_extra_sky"
-        ],
-        [
-          "minecraft:freeze_top_layer"
         ]
+      ],
+      "override_stages": [
+        9
       ]
     },
     "minecraft:tundra": {
       "features": [
         [],
-        [
-          "minecraft:lake_water",
-          "minecraft:lake_lava"
-        ],
-        [
-          "minecraft:clay"
-        ],
-        [
-          "minecraft:monster_room"
-        ],
         [],
         [],
-        [
-          "minecraft:ore_dirt",
-          "minecraft:ore_gravel",
-          "minecraft:ore_coal_sky",
-          "minecraft:ore_iron_sky",
-          "minecraft:ore_gold_sky",
-          "minecraft:ore_redstone_sky",
-          "minecraft:ore_diamond_sky",
-          "minecraft:ore_lapis_sky"
-        ],
         [],
-        [
-          "minecraft:spring_water",
-          "minecraft:spring_lava"
-        ],
+        [],
+        [],
+        [],
+        [],
+        [],
         [
           "minecraft:trees_tundra_sky",
           "minecraft:trees_extra_cold_sky"
-        ],
-        [
-          "minecraft:freeze_top_layer"
         ]
+      ],
+      "override_stages": [
+        9
       ]
     },
     "minecraft:ice_desert": {
       "features": [
         [],
-        [
-          "minecraft:lake_water",
-          "minecraft:lake_lava"
-        ],
-        [
-          "minecraft:clay"
-        ],
-        [
-          "minecraft:monster_room"
-        ],
         [],
         [],
-        [
-          "minecraft:ore_dirt",
-          "minecraft:ore_gravel",
-          "minecraft:ore_coal_sky",
-          "minecraft:ore_iron_sky",
-          "minecraft:ore_gold_sky",
-          "minecraft:ore_redstone_sky",
-          "minecraft:ore_diamond_sky",
-          "minecraft:ore_lapis_sky"
-        ],
         [],
-        [
-          "minecraft:spring_water",
-          "minecraft:spring_lava"
-        ],
+        [],
+        [],
+        [],
+        [],
+        [],
         [
           "minecraft:trees_ice_desert_sky",
           "minecraft:trees_extra_cold_sky"
-        ],
-        [
-          "minecraft:freeze_top_layer"
         ]
+      ],
+      "override_stages": [
+        9
       ]
     }
   }

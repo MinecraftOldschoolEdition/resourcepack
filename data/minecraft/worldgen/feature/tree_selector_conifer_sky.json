@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:weighted_random_selector",
+  "features": [
+    {
+      "data": "minecraft:pine_sky",
+      "weight": 1
+    },
+    {
+      "data": "minecraft:spruce_sky",
+      "weight": 2
+    }
+  ]
+}

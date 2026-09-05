@@ -1,0 +1,6 @@
+{
+  "type": "mcose:registered_foliage_selector",
+  "foliage_placer": "minecraft:pine_foliage_placer",
+  "present": "minecraft:pine_beta",
+  "absent": "minecraft:oak_beta"
+}
