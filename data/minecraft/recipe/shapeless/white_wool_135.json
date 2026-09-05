@@ -13,6 +13,8 @@
   "result": {
     "id": "minecraft:white_wool",
     "count": 1,
-    "legacy_metadata": 12
+    "components": {
+      "minecraft:damage": 12
+    }
   }
 }

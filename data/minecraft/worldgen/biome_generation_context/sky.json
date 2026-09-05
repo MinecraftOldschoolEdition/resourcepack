@@ -1,0 +1,27 @@
+{
+  "default": {
+    "features": [
+      [],
+      ["minecraft:lake_water", "minecraft:lake_lava"],
+      ["minecraft:clay"],
+      ["minecraft:monster_room"],
+      [],
+      [],
+      [
+        "minecraft:ore_dirt",
+        "minecraft:ore_gravel",
+        "minecraft:ore_coal_sky",
+        "minecraft:ore_iron_sky",
+        "minecraft:ore_gold_sky",
+        "minecraft:ore_redstone_sky",
+        "minecraft:ore_diamond_sky",
+        "minecraft:ore_lapis_sky"
+      ],
+      [],
+      ["minecraft:spring_water", "minecraft:spring_lava"],
+      [],
+      ["minecraft:freeze_top_layer"]
+    ]
+  },
+  "biomes": {}
+}

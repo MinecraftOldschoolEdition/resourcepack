@@ -1,0 +1,32 @@
+{
+  "feature": "minecraft:ore_lapis",
+  "placement": [
+    {
+      "type": "mcose:legacy_density_count",
+      "count": 1,
+      "reference_density": 0.6,
+      "minimum_density": 0.15,
+      "multiplier": 1.35,
+      "maximum_scale": 8
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "minecraft:height_range",
+      "height": {
+        "type": "minecraft:trapezoid",
+        "min_inclusive": {
+          "absolute": 8
+        },
+        "max_inclusive": {
+          "absolute": 54
+        },
+        "plateau": 0
+      }
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

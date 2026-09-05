@@ -12,6 +12,8 @@
   "result": {
     "id": "minecraft:stone_slab",
     "count": 3,
-    "legacy_metadata": 2
+    "components": {
+      "minecraft:damage": 2
+    }
   }
 }

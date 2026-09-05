@@ -1,0 +1,20 @@
+{
+  "default": {
+    "features": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "minecraft:spring_lava_classic_hell"
+      ],
+      [],
+      []
+    ]
+  },
+  "biomes": {}
+}

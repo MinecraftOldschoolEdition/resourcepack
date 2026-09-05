@@ -7,6 +7,8 @@
   "result": {
     "id": "minecraft:dye",
     "count": 1,
-    "legacy_metadata": 2
+    "components": {
+      "minecraft:damage": 2
+    }
   }
 }

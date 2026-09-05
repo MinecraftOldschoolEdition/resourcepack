@@ -1,0 +1,31 @@
+{
+  "feature": "minecraft:ore_iron",
+  "placement": [
+    {
+      "type": "mcose:legacy_density_count",
+      "count": 20,
+      "reference_density": 0.6,
+      "minimum_density": 0.15,
+      "multiplier": 1,
+      "maximum_scale": 4
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "minecraft:height_range",
+      "height": {
+        "type": "minecraft:uniform",
+        "min_inclusive": {
+          "absolute": 0
+        },
+        "max_inclusive": {
+          "absolute": 63
+        }
+      }
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

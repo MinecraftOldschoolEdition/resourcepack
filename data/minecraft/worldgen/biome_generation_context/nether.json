@@ -1,0 +1,25 @@
+{
+  "default": {
+    "features": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "minecraft:spring_open",
+        "minecraft:patch_fire",
+        "minecraft:glowstone_extra",
+        "minecraft:glowstone",
+        "minecraft:brown_mushroom_nether",
+        "minecraft:red_mushroom_nether"
+      ],
+      [],
+      [],
+      []
+    ]
+  },
+  "biomes": {}
+}
