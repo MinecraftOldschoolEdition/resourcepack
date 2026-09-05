@@ -1,0 +1,50 @@
+{
+  "type": "minecraft:tree",
+  "trunk_provider": {
+    "type": "minecraft:simple_state_provider",
+    "state": "minecraft:oak_log"
+  },
+  "trunk_placer": {
+    "type": "minecraft:straight_trunk_placer",
+    "base_height": 4,
+    "height_rand_a": 2,
+    "height_rand_b": 0
+  },
+  "foliage_provider": {
+    "type": "minecraft:simple_state_provider",
+    "state": "minecraft:oak_leaves"
+  },
+  "foliage_placer": {
+    "type": "minecraft:blob_foliage_placer",
+    "radius": 2,
+    "offset": 0,
+    "height": 3
+  },
+  "minimum_size": {
+    "type": "minecraft:three_layers_feature_size",
+    "limit": 1,
+    "upper_limit": 1,
+    "lower_size": 0,
+    "middle_size": 1,
+    "upper_size": 2
+  },
+  "decorators": [],
+  "ignore_vines": false,
+  "below_trunk_provider": {
+    "type": "minecraft:simple_state_provider",
+    "state": "minecraft:dirt"
+  },
+  "mcose:geometry": "alpha",
+  "mcose:ground_predicate": {
+    "type": "minecraft:matching_blocks",
+    "blocks": [
+      "minecraft:grass_block",
+      "minecraft:dirt"
+    ],
+    "offset": [
+      0,
+      -1,
+      0
+    ]
+  }
+}

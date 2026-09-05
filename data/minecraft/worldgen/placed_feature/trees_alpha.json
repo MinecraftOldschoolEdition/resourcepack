@@ -1,0 +1,27 @@
+{
+  "feature": "minecraft:trees_alpha",
+  "placement": [
+    {
+      "type": "mcose:alpha_tree_count",
+      "noise_scale": 0.5,
+      "noise_divisor": 8,
+      "random_scale": 4,
+      "offset": 4,
+      "divisor": 3,
+      "extra_chance": 10
+    },
+    {
+      "type": "mcose:select_once"
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "minecraft:heightmap",
+      "heightmap": "WORLD_SURFACE"
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}
