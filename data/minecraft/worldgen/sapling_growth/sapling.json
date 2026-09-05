@@ -1,0 +1,34 @@
+{
+  "default": "minecraft:oak_beta",
+  "rules": [
+    {
+      "world_types": [
+        "minecraft:infdev"
+      ],
+      "grower": "minecraft:oak_infdev"
+    },
+    {
+      "metadata": [
+        1
+      ],
+      "grower": "minecraft:spruce"
+    },
+    {
+      "metadata": [
+        2
+      ],
+      "grower": "minecraft:birch"
+    },
+    {
+      "world_types": [
+        "minecraft:alpha",
+        "minecraft:alpha_snow"
+      ],
+      "metadata": [
+        0,
+        3
+      ],
+      "grower": "minecraft:oak_alpha"
+    }
+  ]
+}
