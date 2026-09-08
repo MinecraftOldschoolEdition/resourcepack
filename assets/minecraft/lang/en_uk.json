@@ -784,13 +784,13 @@
   "lanServer.port.invalid": "Port must be between 1024 and 65535.",
   "lanServer.port.random": "A random available port will be used.",
   "lanServer.port.unavailable": "Port %s is not available.",
-  "lanServer.connecting": "Connecting to local LAN server...",
+  "lanServer.connecting": "Simulating world for a bit",
   "lanServer.failed": "Failed to open LAN world",
   "lanServer.failed.generic": "Unable to start the local LAN server.",
-  "lanServer.preparing": "Preparing LAN world...",
+  "lanServer.preparing": "Loading level",
   "lanServer.saving": "Saving singleplayer world...",
   "lanServer.saveAndQuit": "Save & Quit",
-	"lanServer.starting": "Starting local UberBukkit server...",
+	"lanServer.starting": "Building terrain",
 	"lanServer.opened": "LAN world opened at %s",
 	"lanServer.openTitle": "Opening to LAN",
 	"lanServer.scanning": "Scanning for games on your local network",
@@ -1205,5 +1205,9 @@
   "isometric.menu.controller.exitHold": "Hold to Exit",
   "isometric.menu.controller.exitHoldShort": "Hold Exit",
   "isometric.menu.controller.pan": "Pan",
-  "isometric.menu.controller.panFast": "Pan Fast"
+  "isometric.menu.controller.panFast": "Pan Fast",
+  "options.debugOverlay.biome": "Biome",
+  "options.debugOverlay.biome.tooltip": "Shows the biome's namespaced ID at the player's position.",
+  "options.debugOverlay.slimeChunk": "Slime Chunk",
+  "options.debugOverlay.slimeChunk.tooltip": "Shows whether the player's chunk passes the world's slime-spawn seed check. Other spawning conditions still apply."
 }

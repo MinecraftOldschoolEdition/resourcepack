@@ -1,0 +1,5 @@
+{
+  "mcose:generator": "minecraft:nether_sky",
+  "mcose:surface_builder": "minecraft:nether_sky",
+  "mcose:base_settings": "minecraft:sky"
+}

@@ -1,0 +1,11 @@
+{
+  "mcose:generator": "minecraft:nether",
+  "mcose:surface_builder": "minecraft:nether_default",
+  "noise_router": {
+    "final_density": "mcose:legacy"
+  },
+  "mcose:legacy_noise": {
+    "xz_scale": 684.412,
+    "y_scale": 2053.236
+  }
+}

@@ -105,5 +105,34 @@
         }
       }
     }
+  },
+  "has_precipitation": true,
+  "temperature": 0,
+  "downfall": 0.5,
+  "temperature_modifier": "none",
+  "mcose:climate_mode": "legacy_sampled",
+  "effects": {
+    "water_color": "#ffffff",
+    "grass_color_modifier": "none",
+    "mcose:water_color_mode": "multiply_legacy_colormap"
+  },
+  "carvers": [
+    "minecraft:cave"
+  ],
+  "mcose:carvers_by_generator": {
+    "minecraft:sky": [
+      "minecraft:sky_cave"
+    ],
+    "minecraft:nether": [
+      "minecraft:nether_cave"
+    ],
+    "minecraft:alpha": [
+      "minecraft:cave"
+    ],
+    "minecraft:infdev": [],
+    "minecraft:flat": [],
+    "minecraft:classic": [],
+    "minecraft:classic_nether": [],
+    "minecraft:nether_sky": []
   }
 }

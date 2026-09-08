@@ -1,0 +1,11 @@
+{
+  "mcose:generator": "minecraft:infdev",
+  "mcose:surface_builder": "minecraft:infdev",
+  "noise_router": {
+    "final_density": "mcose:legacy"
+  },
+  "mcose:legacy_noise": {
+    "xz_scale": 684.412,
+    "y_scale": 984.412
+  }
+}

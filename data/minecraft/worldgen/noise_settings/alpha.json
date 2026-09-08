@@ -1,0 +1,11 @@
+{
+  "mcose:generator": "minecraft:alpha",
+  "mcose:surface_builder": "minecraft:alpha_overworld",
+  "noise_router": {
+    "final_density": "mcose:legacy"
+  },
+  "mcose:legacy_noise": {
+    "xz_scale": 684.412,
+    "y_scale": 684.412
+  }
+}

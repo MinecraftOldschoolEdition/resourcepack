@@ -2,15 +2,46 @@
   "dimensions": {
     "minecraft:overworld": {
       "type": "minecraft:overworld",
-      "generator": { "type": "minecraft:alpha" }
+      "generator": {
+        "type": "minecraft:alpha",
+        "biome_source": {
+          "type": "mcose:alpha",
+          "biome": "minecraft:plains",
+          "temperature": 0.5,
+          "humidity": 0.5,
+          "snow": {
+            "biome": "minecraft:taiga",
+            "temperature": 0,
+            "humidity": 0.5
+          },
+          "use_world_snow": true,
+          "force_snow": true
+        },
+        "settings": "minecraft:alpha"
+      }
     },
     "minecraft:the_nether": {
       "type": "minecraft:the_nether",
-      "generator": { "type": "minecraft:nether" }
+      "generator": {
+        "type": "minecraft:nether",
+        "biome_source": {
+          "type": "minecraft:fixed",
+          "biome": "minecraft:hell",
+          "mcose:temperature": 1,
+          "mcose:humidity": 0
+        },
+        "settings": "minecraft:nether"
+      }
     },
     "minecraft:sky": {
       "type": "minecraft:sky",
-      "generator": { "type": "minecraft:sky" }
+      "generator": {
+        "type": "minecraft:sky",
+        "biome_source": {
+          "type": "mcose:sky_regions"
+        },
+        "settings": "minecraft:sky"
+      }
     }
   }
 }

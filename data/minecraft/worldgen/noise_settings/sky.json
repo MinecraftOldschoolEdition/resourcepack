@@ -1,0 +1,11 @@
+{
+  "mcose:generator": "minecraft:sky",
+  "mcose:surface_builder": "minecraft:sky_default",
+  "noise_router": {
+    "final_density": "mcose:legacy"
+  },
+  "mcose:legacy_noise": {
+    "xz_scale": 684.412,
+    "y_scale": 684.412
+  }
+}
