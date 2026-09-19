@@ -5,8 +5,8 @@
   "has_ender_dragon_fight": false,
   "coordinate_scale": 8.0,
   "min_y": 0,
-  "height": 128,
-  "logical_height": 128,
+  "height": 512,
+  "logical_height": 512,
   "infiniburn": "#minecraft:infiniburn_nether",
   "ambient_light": 0.1,
   "monster_spawn_light_level": {
