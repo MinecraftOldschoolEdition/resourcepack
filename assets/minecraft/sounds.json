@@ -1,0 +1,8 @@
+{
+  "mob.wolf.matty.sniff": {
+    "replace": true,
+    "sounds": [
+      "mob/wolf/matty/sniff"
+    ]
+  }
+}

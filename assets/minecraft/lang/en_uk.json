@@ -947,6 +947,8 @@
   "options.pbrMaterials.tooltip": "Adds terrain material lighting, metallic reflections, leaf light transmission, and resource-pack material maps. Requires Vulkan and works independently of Coloured Global Illumination.",
   "options.pbrMaterialsQuality": "PBR Material Quality",
   "options.pbrMaterialsQuality.tooltip": "Controls terrain material lighting detail and sampling. Higher quality uses more GPU time. The PBR material switch remains independent.",
+  "options.waterCaustics": "Water Caustics",
+  "options.waterCaustics.tooltip": "Adds moving sunlight patterns to underwater terrain. Requires PBR Materials and Vulkan; works in both shader lighting modes.",
   "options.rawMouseInput": "Raw Mouse Input",
   "options.renderDistance": "Render Distance",
   "options.renderDistance.extreme": "Extreme",
@@ -994,6 +996,8 @@
   "options.sharePresence.none": "None",
   "options.sharePresence.none.tooltip": "Not sharing any presence. Appearing as offline.",
   "options.showFps": "Show FPS",
+  "options.showFrameGenerationStats": "Show Frame Gen Stats",
+  "options.showFrameGenerationStats.tooltip": "Shows rendered and generated frame rates below the FPS counter. Requires Show FPS or the debug FPS overlay.",
   "options.showVersionLabel": "Show Version Label",
   "options.skinCustomization": "Skin Customisation...",
   "options.skinCustomization.title": "Skin Customisation",
@@ -1241,5 +1245,8 @@
   "worldUpgradeRegionCore.description2": "Choose whether to back up first, then click Proceed.",
   "worldUpgradeRegionCore.title": "Upgrade world to Eric's RegionCore",
   "worldUpgradeRegionCore.worldPrefix": "World: ",
-  "worldUpgradeRegionCore.worldSuffix": " (%s)"
+  "worldUpgradeRegionCore.worldSuffix": " (%s)",
+  "options.vulkanFrameGeneration": "FSR 3 Frame Generation (Experimental)",
+  "video.frameGeneration.requires": "Requires Vulkan, FSR or DLSS, and VSync (VRR off).",
+  "options.vulkanFrameGeneration.tooltip": "Adds interpolated frames during gameplay. Requires an active native upscaler, VSync on and VRR off. Show Frame Gen Stats optionally reports rendered and generated frames separately. Menus pause generation; selecting an unavailable upscaler leaves it inactive."
 }
