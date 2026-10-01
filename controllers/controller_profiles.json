@@ -136,7 +136,7 @@
       "id": "steam_deck",
       "type": "STEAM_DECK",
       "legacyProfileName": "XInput",
-      "defaultIconStyle": "default",
+      "defaultIconStyle": "SteamDeck",
       "triggerModel": "SEPARATE",
       "axisMap": {
         "left_x": 0,
@@ -165,7 +165,7 @@
       "id": "steam_controller",
       "type": "STEAM_CONTROLLER",
       "legacyProfileName": "XInput",
-      "defaultIconStyle": "default",
+      "defaultIconStyle": "SteamController",
       "triggerModel": "SEPARATE",
       "axisMap": {
         "left_x": 0,
